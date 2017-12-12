@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=cyrillic,cyrillic-ext);
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fff;
+}
+
+button{
+	border: none;
+	outline: none;
+	padding:  5px 10px;
+	font-size: 18px;
+ border-radius: 3px;
+ color: #fff;
+ transition: all .25s;
+ cursor: pointer;
+}
